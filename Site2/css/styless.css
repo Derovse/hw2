@@ -1,0 +1,56 @@
+.body {
+}
+
+.header {
+}
+
+.section-button:hover {
+  background-color: aqua;
+  color: black;
+}
+.header-navigation {
+}
+
+.header-link {
+}
+
+.header-list {
+}
+
+.list {
+  list-style: none;
+}
+
+.header-item {
+}
+
+.section {
+}
+
+.section-list {
+}
+
+.section-item {
+}
+
+.section-button {
+  cursor: pointer;
+}
+
+.section-image {
+}
+
+.section-title3 {
+}
+
+.section-paragraph {
+}
+
+.footer {
+}
+
+.footer-link {
+}
+
+.footer-paragraph {
+}
